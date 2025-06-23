@@ -1,0 +1,27 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore notebook conversion outputs
+*.nbconvert.ipynb
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore media/data (optional)
+Photos and videos/
+
+# Ignore logs and temp files
+*.log
+*.tmp
